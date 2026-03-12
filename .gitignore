@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+venv/
+.env
+*.local
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+staticfiles/
+media/
+
+# Build/Distribution
+dist/
+build/
+*.egg-info/
+
+# IDEs/System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker
+.docker/
