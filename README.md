@@ -2,10 +2,6 @@
 
 Orbit is a modern, full-stack SaaS application built with **React**, **Django REST Framework**, and **PostgreSQL**. It offers a premium task management experience with a Kanban-style board, secure authentication, and a responsive dark-mode design.
 
-## 🚀 Live Demo
-- **Frontend**: [https://yourapp.vercel.app](https://yourapp.vercel.app)
-- **Backend API**: [https://your-api.onrender.com](https://your-api.onrender.com)
-
 ## 🛠 Tech Stack
 - **Frontend**: React.js (Vite), TypeScript, Framer Motion, Axios, CSS Modules
 - **Backend**: Django, Django REST Framework, JWT (Simple JWT), WhiteNoise
